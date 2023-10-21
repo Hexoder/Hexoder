@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=480&lines=Hi%2C+I+am+Armin+Fekri;I'm+interested+in+back-end+developing;Learning+Python%2C+Django%2C+SQL%2C+API+...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&random=false&width=550&lines=Hi%2C+I+am+Armin+Fekri;I'm+interested+in+back-end+developing;Currently+learning+Python%2C+Django%2C+SQL%2C+API+...)](https://git.io/typing-svg)
 <!---
 - 👋 Hi, I’m @Hexoder
 - 👀 I’m interested in Developing
